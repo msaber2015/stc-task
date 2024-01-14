@@ -18,7 +18,7 @@ Microservice responsible for managing employee and all operations related to it 
 ```
 ## Run Remotely
 
-Clone the project
+Run the Docker Image
 
 ```bash
   docker run -p 8085:8085 mohamedsaberfcih/stc-task:v1.0.0
