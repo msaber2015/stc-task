@@ -6,7 +6,7 @@ Microservice responsible for managing employee and all operations related to it 
 
 ## Tech Stack
 
-**Server:** Java, Spring Boot , Docker
+**Server:** Java 17, Spring Boot 3.2.1 , Docker
 
 
 ## API Reference
