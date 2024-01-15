@@ -16,7 +16,7 @@ Microservice responsible for managing employee and all operations related to it 
 ```http
   http://localhost:8085/stc/swagger-ui/index.html
 ```
-## Run Remotely
+## Run Locally Using Docker Hub Image
 
 Run the Docker Image
 
@@ -31,7 +31,7 @@ Open Swagger
 
 
 
-## Run Locally
+## Run Locally Using Docker Compose
 
 Clone the project
 
